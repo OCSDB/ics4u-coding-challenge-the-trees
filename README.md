@@ -19,3 +19,6 @@ Notes:
     1. Creative coding(explaining to the class how they can incorporate this into their workflow as a learner of technology)
     2. One research article that connects to computer science.
     3. One aspect of emerging technology that is highlighted and briefly touched upon.
+
+<h2>Repo</h2>
+Other work can be found:https://github.com/andyung17/Fractal-Trees
