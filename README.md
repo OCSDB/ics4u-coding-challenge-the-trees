@@ -21,4 +21,4 @@ Notes:
     3. One aspect of emerging technology that is highlighted and briefly touched upon.
 
 <h2>Repo</h2>
-Other work can be found:https://github.com/andyung17/Fractal-Trees
+Most of the other work can be found:https://github.com/andyung17/Fractal-Trees
